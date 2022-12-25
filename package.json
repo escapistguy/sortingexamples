@@ -1,0 +1,12 @@
+{
+  "name": "sorting_fn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-sorting": "node --expose-gc sorting/index.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC"
+}
